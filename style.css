@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style-type:none;
+    display:flex;
+    background-color:rosybrown;
+    padding:7px;
+    justify-content:flex-end;
+    position:fixed;
+    width:100%;
+    
+}
+a{
+    text-decoration:none;
+    background-color:moccasin;
+    color:navy;
+    border:5px solid yellow;
+    margin:5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius:10px;
+    padding:2px;
+}
